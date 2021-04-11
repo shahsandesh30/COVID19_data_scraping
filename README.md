@@ -1,1 +1,1 @@
-# COVID19 data scraping using BeautifulSopu
+# COVID19 data scraping using BeautifulSoup
